@@ -84,7 +84,7 @@ so, this is the beginning where to start. all of these process transformation wi
 |----------------------- |-----------------------| -----------------------| -----------------------| -----------------------|
 |  ![image](https://github.com/DianPermana/Career-History-at-Bank-Rakyat-Indonesia/assets/18004033/322a9d16-7b07-4743-8c90-f9851d3185a9) |  <img width="361" alt="2020-12-14_141016" src="https://github.com/DianPermana/Career-History-at-Bank-Rakyat-Indonesia/assets/18004033/046e9f00-9003-435b-b9d3-3b41706eaac1"> | <img width="520" alt="Brinets" src="https://github.com/DianPermana/Career-History-at-Bank-Rakyat-Indonesia/assets/18004033/22dd9a08-5149-49b7-b21c-c9672aec7799"> | <img width="646" alt="Database" src="https://github.com/DianPermana/Career-History-at-Bank-Rakyat-Indonesia/assets/18004033/04cc2781-0fe0-4766-b178-733dc492f6df"> | <img width="304" alt="Service" src="https://github.com/DianPermana/Career-History-at-Bank-Rakyat-Indonesia/assets/18004033/2e44df42-f63b-4247-8b7a-4a3942c27229">
 
-
+Link : https://drive.google.com/file/d/1_LNIBYXSAbhuGW4WV8sZqDtnfD_paV4b/view, Acces request to mylinkedin :https://www.linkedin.com/in/dianpermana
 
 ## Tech Stack : 
 JMeter(JDBC, log4j, TN5250, SSH, FTP, etc), Management tools (JIRA, Confluence, Bitbucket), Terminal (Putty, Mobaxtrem), Database (MySQL,SQL Server) IBM (Cardlink, AS400), Posman, SOAPUI, Katalon, Studio, Taurus, Github Language : Java, Groovy, Javascript etc
