@@ -28,39 +28,74 @@ I am greatly pleased to be involved in projects that carry significant impact on
 | ![image](https://github.com/DianPermana/Career-History-at-Bank-Rakyat-Indonesia/assets/18004033/0f3f52be-c514-4989-b257-efd60c39cc83) | ![image](https://github.com/DianPermana/Career-History-at-Bank-Rakyat-Indonesia/assets/18004033/15032142-8925-494b-8aad-b2e6c6a5bd4f) | ![image](https://github.com/DianPermana/Career-History-at-Bank-Rakyat-Indonesia/assets/18004033/f130894a-41a2-4bb8-8d09-8c0220b9f07f) | ![image](https://github.com/DianPermana/Career-History-at-Bank-Rakyat-Indonesia/assets/18004033/53826d80-314d-4b0a-9c6c-73a24f877fa0) | ![image](https://github.com/DianPermana/Career-History-at-Bank-Rakyat-Indonesia/assets/18004033/1409894a-f04d-4f05-91f7-dd1fb5e7d272)
 |
 
-
 ```
 Project X
 ├── Documentation
-│   ├── BRS (Business Requirement Specification)  : Business Analys Department
+│   ├── BRS (Business Requirement Specification)  : Business Analys Department (Including but not limited, Design Architecture, Goal, Flow business view, changes, all type of test like srtress test, security test, etc)
 │   ├── DSN (Program Design) : Development Department
-│   ├── MIG (Migration) : Development Department
+│   ├── MIG (Migration) / DEP (Deployment Code) / SOP deployment & Rollback: Development Department
 │   ├── SIT (System Integration Test) : Development Department
-│   ├── BAA (Acceptance Test DOC) : Quality Department
-│   ├── DEP (Deployment) : Development Department
+│   ├── BAA (Acceptance Test) : Quality Department
+│   ├── DEP (Deployment Code) : Development Department
 │   ├── UAT (User Accaptan Test) : Quality Department
+│   ├── BADT (Deployment Test) : Quality Department
+│   ├── BAPT (Piloting Test) : Quality Department
 │   └── etc
 |
+├── Busines Analys Department
+│   ├── Outcome : BRS [Mandatory]
+│   └── etc
+│
 ├── Development Department
-│   ├── Code, MIG, DEP
-│   └── Readme.txt
+│   ├── Outcome : Code, MIG, DEP, SIT [Mandatory]
+│   └── etc
 |
-├── Testing & Release App
+├── Quality Department (Testing & Release)
 │   ├── Results From QA Department
-│   │   ├── BAA
-│   │   ├── Scenario Test in DEV/UAT stage
-|   │   ├── Automation test /E2E (If any)
-|   │   ├── Integration Automation Test (If any, specificly this is for API/Middleware/BackEnd)
-|   │   └── Beta Test Report.docx
+│   │   ├── Outcome : UAT, BAA, BADT, BAPT [Mandatory]
+│   │   ├── Involve Design & Code Review, Source Code DIR, Deployment readiness, Invitation (UAT, Table TOP, deployment)  [Mandatory]
+│   │   ├── Check & update all DOC (sequentially : BRS, DSN, MIG/DEP), Plan scenario Test, Data testing, Execution (sequentially : Screen Capture), do UAT, Check & Update DOC after UAT (BAA, BADT), Deployment (BADT, BAPT) [Mandatory]
+|   │   ├── Integration Automation Test, Automation test /E2E (If any) [optional]
+|   │   └── etc
 │   ├── Release App   
-│   │   ├── Approval for all department before release to production (Business Analys Lead, Development Lead, Quality Lead, Production Lead) 
-│   │   ├── QA/Test engineer Involved test in Production after relase
-│   │           
-|   │             └── etc.
+│   │   ├── Approval for all department before release to production (User, Business Analys Lead, Development Lead, Quality Lead, Operation Lead : Minimal head of division)  [Mandatory]
+│   │   ├── QA/Test engineer/ Involved test in Production after relase (Deployment test or piloting)       
+|   │   └── etc.
 |   │
-└── Tools
-    └── Persogen.dll
+└── OPERATION Department
+    └── Collaboration with other Department, especially Table TOP (Planning all requirment : Data, tools, Code), Deployment, Monitoring
 
-```en.dll
+```
 
-"""
+## Waterfall model ?
+this is all the process Software Development Life Cycle. I can say yes waterfall, but no point with methodology or Model. because this is the Oldest & Largest Banking in Indonesia, we have rule from Government Regulations.
+
+Why ? Risk, Rule, Fraud etc. that's is the answer 
+
+ofcouse as QA, this is basic why Must be transformation QA not only as a testing, but also involved for all of the process. just QA understanding if any fraud in the logic code, Functional & Non-Functional PASS or FAILED. BECAUSE WE ARE QUALITY ASSURANCE. we Need to makesure everything meet quality & standarization.
+
+so, this is the beginning where to start. all of these process transformation with  ADLM (Application Development Life Cycle) using JIRA, Bamboo, Bitbucket, Confluence. All process just copy from Manual using this. yes CI/CD, approval and onine documentation. Everthing start from the manual process. because the key is everyone should be understand from the initialization and yes will easy to move to the next Level. so it's about JOURNEY
+
+## Achievement / Research & Development / Design Thinking
+- The complexity about the flow is a challenge, everytime we want as fast as posible, but we have rule (Government Regulations). thats why we need strategy to solve all of the process done. we have solution like update parallel document, communication, collaboration, Tips & Trick
+- The process testing convert from Manual with Automation : Succesfuly Integration automation test for all system : Core Banking AS400, Cardlink, API, Database, etc
+
+| Ebook                  | Example 1             | Example 2              |  Example 3             |  Example 4             |            
+|----------------------- |-----------------------| -----------------------| -----------------------| -----------------------|
+|  ![image](https://github.com/DianPermana/Career-History-at-Bank-Rakyat-Indonesia/assets/18004033/322a9d16-7b07-4743-8c90-f9851d3185a9) |  <img width="361" alt="2020-12-14_141016" src="https://github.com/DianPermana/Career-History-at-Bank-Rakyat-Indonesia/assets/18004033/046e9f00-9003-435b-b9d3-3b41706eaac1"> | <img width="520" alt="Brinets" src="https://github.com/DianPermana/Career-History-at-Bank-Rakyat-Indonesia/assets/18004033/22dd9a08-5149-49b7-b21c-c9672aec7799"> | <img width="646" alt="Database" src="https://github.com/DianPermana/Career-History-at-Bank-Rakyat-Indonesia/assets/18004033/04cc2781-0fe0-4766-b178-733dc492f6df"> | <img width="304" alt="Service" src="https://github.com/DianPermana/Career-History-at-Bank-Rakyat-Indonesia/assets/18004033/2e44df42-f63b-4247-8b7a-4a3942c27229">
+
+
+
+## Tech Stack : 
+JMeter(JDBC, log4j, TN5250, SSH, FTP, etc), Management tools (JIRA, Confluence, Bitbucket), Terminal (Putty, Mobaxtrem), Database (MySQL,SQL Server) IBM (Cardlink, AS400), Posman, SOAPUI, Katalon, Studio, Taurus, Github Language : Java, Groovy, Javascript etc
+
+
+## Thank You
+Thank You all, day to day we have improved and I just create E-book for documentation in the future. MyWife Rini Shoffa Aulia & Ghaisan Rafif Aljazari, and all team @Fakih Basyaruddin @Dwi Yunita @Rahmad M @Ryan @Rudi Butar Butar @satyodjiwo @Osyani @Fathur
+Hopefully the knowledge gained will be useful and contribute to building Indonesia's golden generation in 2045.
+
+Thank you,
+
+Dian Permana
+
+
