@@ -6,7 +6,7 @@ PT Bank Rakyat Indonesia (Persero) Tbk (lit. 'Indonesian People's Bank', commonl
 
 A company that grows rapidly may feel that titles are just titles, but the focus is on getting the work done. That's the time when I'm there to help with digital transformation, especially in improving the quality of digital products, both in general flow and within internal teams.
 
-### Middleware Test Engineer (Apr 2020 - Aug 2021) >> Phase 2
+### Middleware Test Engineer (Apr 2020 - Aug 2021) 
 - Involved in the process of migrating legacy systems to new systems using Middleware (Enterprise Service Bus).
 - Performed functional and non-functional testing
 - Researched and implemented integration automation tests for all systems, including AS400, Cardlink, APIs, databases, and logging, in a unified framework using JMeter.
@@ -20,7 +20,7 @@ A company that grows rapidly may feel that titles are just titles, but the focus
 - Prepared and provided status reports (passed/failed), test results, and documentation as required by project stakeholders
 
 ### Data Migration Test Engineer (Jan 2019 - Aug 2019)
-- Involve Data Migration testing Core Banking singapore to temenos T24 (Extract, Trnsform, Load, Reconciliation)
+- Involve Data Migration testing Core Banking singapore to temenos T24 in MOCKRUN (Extract, Trnsform, Load, Reconciliation)
 
 ## ALL PROJECT
 
