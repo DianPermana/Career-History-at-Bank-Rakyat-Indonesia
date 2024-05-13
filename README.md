@@ -6,17 +6,19 @@ PT Bank Rakyat Indonesia (Persero) Tbk (lit. 'Indonesian People's Bank', commonl
 
 A company that grows rapidly may feel that titles are just titles, but the focus is on getting the work done. That's the time when I'm there to help with digital transformation, especially in improving the quality of digital products, both in general flow and within internal teams.
 
-### Middleware QA Engineer (Sep 2019 - Aug 2021)
-- Developing and executing test cases for middleware components to ensure they meet quality standards.
-- Collaborating with development teams to identify and resolve issues in middleware software.
-- Designing and implementing automated tests for middleware systems to improve efficiency and accuracy.
-- Analyzing and documenting test results to communicate findings with relevant stakeholders.
-- Participating in the software development lifecycle to provide quality assurance input and ensure requirements are met.
-- Maintaining and enhancing existing test suites and frameworks to keep pace with evolving middleware technologies.
-- Researching and implementing best practices for middleware testing to improve overall quality and reliability.
+### Middleware Test Engineer (Sep 2019 - Aug 2021)
+- Performed functional and non-functional testing of middleware (Enterprise Service Bus).
+- Researched and implemented integration automation tests for all systems, including AS400, Cardlink, APIs, databases, and logging, in a unified framework using JMeter.
+- Experienced in mentoring QA team members to enhance their skills and efficiency in testing
 
-### QA Engineer (Jan 2019 - Aug 2019)
-- Involve Data Migration testing Core Banking singapore to temenos T24
+### QA Engineer
+- Developed and executed test plans, test cases, and test scripts for both manual and automated testing.
+- Involved in all phases of testing, including but not limited to integration testing, system testing, user acceptance testing, and piloting projects
+- Contributed to the creation and maintenance of testing environments (Stagging/UAT Server) and test data
+- Prepared and provided status reports (passed/failed), test results, and documentation as required by project stakeholders
+
+### Data Migration Test Engineer (Jan 2019 - Aug 2019)
+- Involve Data Migration testing Core Banking singapore to temenos T24 (Extract, Trnsform, Load, Reconciliation)
 
 
 ## ALL PROJECT
