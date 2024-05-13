@@ -2,7 +2,7 @@
 
 PT Bank Rakyat Indonesia (Persero) Tbk (lit. 'Indonesian People's Bank', commonly known as BRI) is one of the largest banks in Indonesia.[4] It specialises in small scale and microfinance[5] style borrowing from and lending to its approximately 30 million retail clients through its over 8,600 branches, units and rural service posts. It also has a comparatively small, but growing, corporate business. As of 2022, it is the second largest bank in Indonesia by asset
 
-## Career History (Quality Improvement Department)
+## Career History (Quality Department)
 
 A company that grows rapidly may feel that titles are just titles, but the focus is on getting the work done. That's the time when I'm there to help with digital transformation, especially in improving the quality of digital products, both in general flow and within internal teams.
 
