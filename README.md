@@ -19,7 +19,7 @@ A company that grows rapidly may feel that titles are just titles, but the focus
 - Contributed to the creation and maintenance of testing environments (Stagging/UAT Server)
 - Prepared and provided status reports (passed/failed), test results, and documentation as required by project stakeholders
 
-### Data Migration Test Engineer (Jan 2019 - Aug 2019)
+### Data Migration Test Engineer (Jan - Aug 2019)
 - Involve Data Migration testing Core Banking singapore to temenos T24 in MOCKRUN (Extract, Trnsform, Load, Reconciliation)
 
 ## ALL PROJECT
