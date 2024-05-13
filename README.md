@@ -6,14 +6,15 @@ PT Bank Rakyat Indonesia (Persero) Tbk (lit. 'Indonesian People's Bank', commonl
 
 A company that grows rapidly may feel that titles are just titles, but the focus is on getting the work done. That's the time when I'm there to help with digital transformation, especially in improving the quality of digital products, both in general flow and within internal teams.
 
-### Middleware Test Engineer (Sep 2019 - Aug 2021)
-- Performed functional and non-functional testing of middleware (Enterprise Service Bus).
+### Middleware Test Engineer (Apr 2020 - Aug 2021) >> Phase 2
+- Involved in the process of migrating legacy systems to new systems using Middleware (Enterprise Service Bus).
+- Performed functional and non-functional testing
 - Researched and implemented integration automation tests for all systems, including AS400, Cardlink, APIs, databases, and logging, in a unified framework using JMeter.
 - Experienced in mentoring QA team members to enhance their skills and efficiency in testing
 
-### QA Engineer
+### QA Engineer  (Sep 2019 - Mar 2020)
 - Developed and executed test plans, test cases, and test scripts for both manual and automated testing.
-- Involved in all phases of testing, including but not limited to integration testing, system testing, user acceptance testing, and piloting projects
+- Involved in all phases of testing, including but not limited to integration testing, system testing, user acceptance testing, and piloting
 - Contributed to the creation and maintenance of testing environments (Stagging/UAT Server) and test data
 - Prepared and provided status reports (passed/failed), test results, and documentation as required by project stakeholders
 
@@ -25,7 +26,7 @@ A company that grows rapidly may feel that titles are just titles, but the focus
 
 I am greatly pleased to be involved in projects that carry significant impact on society at large, particularly in Indonesia. Approximately 90% of these projects are national in scope, with only 1 being international.
 
-| 2019 - 2020  | 2021     | QA as System test Enginner | Automation Test | Note Test each project |
+| 2019 - 2020  | 2021     | QA as System test Enginer | Automation Test | Note Test each project |
 |--------------|----------|-------------------| -------------------| -------------------|
 | ![image](https://github.com/DianPermana/Career-History-at-Bank-Rakyat-Indonesia/assets/18004033/0f3f52be-c514-4989-b257-efd60c39cc83) | ![image](https://github.com/DianPermana/Career-History-at-Bank-Rakyat-Indonesia/assets/18004033/15032142-8925-494b-8aad-b2e6c6a5bd4f) | ![image](https://github.com/DianPermana/Career-History-at-Bank-Rakyat-Indonesia/assets/18004033/f130894a-41a2-4bb8-8d09-8c0220b9f07f) | ![image](https://github.com/DianPermana/Career-History-at-Bank-Rakyat-Indonesia/assets/18004033/53826d80-314d-4b0a-9c6c-73a24f877fa0) | ![image](https://github.com/DianPermana/Career-History-at-Bank-Rakyat-Indonesia/assets/18004033/1409894a-f04d-4f05-91f7-dd1fb5e7d272)
 |
@@ -90,7 +91,6 @@ Link : https://drive.google.com/file/d/1_LNIBYXSAbhuGW4WV8sZqDtnfD_paV4b/view (O
 
 ## Tech Stack : 
 JMeter(JDBC, log4j, TN5250, SSH, FTP, etc), Management tools (JIRA, Confluence, Bitbucket), Terminal (Putty, Mobaxtrem), Database (MySQL,SQL Server) IBM (Cardlink, AS400), Posman, SOAPUI, Katalon, Studio, Taurus, Github Language : Java, Groovy, Javascript etc
-
 
 ## Thank You
 Thank You all, day to day we have improved and I just create E-book for documentation in the future. MyWife Rini Shoffa Aulia & Ghaisan Rafif Aljazari, and all team @Fakih Basyaruddin @Dwi Yunita @Rahmad M @Ryan @Rudi Butar Butar @satyodjiwo @Osyani @Fathur
