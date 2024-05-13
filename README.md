@@ -13,14 +13,14 @@ A company that grows rapidly may feel that titles are just titles, but the focus
 - Experienced in mentoring QA team members to enhance their skills and efficiency in testing
 
 ### QA Engineer  (Sep 2019 - Mar 2020)
+- Review design, requirement, specifications, and technical documents before testing
 - Developed and executed test plans, test cases, and test scripts for both manual and automated testing.
 - Involved in all phases of testing, including but not limited to integration testing, system testing, user acceptance testing, and piloting
-- Contributed to the creation and maintenance of testing environments (Stagging/UAT Server) and test data
+- Contributed to the creation and maintenance of testing environments (Stagging/UAT Server)
 - Prepared and provided status reports (passed/failed), test results, and documentation as required by project stakeholders
 
 ### Data Migration Test Engineer (Jan 2019 - Aug 2019)
 - Involve Data Migration testing Core Banking singapore to temenos T24 (Extract, Trnsform, Load, Reconciliation)
-
 
 ## ALL PROJECT
 
