@@ -20,7 +20,7 @@ A company that grows rapidly may feel that titles are just titles, but the focus
 - Prepared and provided status reports (passed/failed), test results, and documentation as required by project stakeholders
 
 ### Data Migration Test Engineer (Jan - Aug 2019)
-- Involve Data Migration testing Core Banking singapore to temenos T24 in MOCKRUN (Extract, Trnsform, Load, Reconciliation)
+- Involved Data Migration testing Core Banking singapore to temenos T24 in MOCKRUN (Extract, Transform, Load, Reconciliation)
 
 ## ALL PROJECT
 
