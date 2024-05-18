@@ -7,12 +7,11 @@ PT Bank Rakyat Indonesia (Persero) Tbk (lit. 'Indonesian People's Bank', commonl
 A company that grows rapidly may feel that titles are just titles, but the focus is on getting the work done. That's the time when I'm there to help with digital transformation, especially in improving the quality of digital products, both in general flow and within internal teams.
 
 ### Middleware Test Engineer (Apr 2020 - Aug 2021) 
-- Involved in the process of migrating legacy systems to new systems using Middleware (Enterprise Service Bus).
-- Performed functional and non-functional testing
+- Involved in the process of migrating legacy systems to new systems using Middleware (Enterprise Service Bus), especially performed functional and non-functional testing
 - Researched and implemented integration automation tests for all systems, including AS400, Cardlink, APIs, databases, and logging, in a unified framework using JMeter.
 - Experienced in mentoring QA team members to enhance their skills and efficiency in testing
 
-### QA Engineer  (Sep 2019 - Mar 2020)
+### Software QA Engineer  (Sep 2019 - Mar 2020)
 - Review design, requirement, specifications, and technical documents before testing
 - Developed and executed test plans, test cases, and test scripts for both manual and automated testing.
 - Involved in all phases of testing, including but not limited to integration testing, system testing, user acceptance testing, and piloting
@@ -20,7 +19,7 @@ A company that grows rapidly may feel that titles are just titles, but the focus
 - Prepared and provided status reports (passed/failed), test results, and documentation as required by project stakeholders
 
 ### Data Migration Test Engineer (Jan - Aug 2019)
-- Involved Data Migration testing Core Banking singapore to temenos T24 in MOCKRUN (Extract, Transform, Load, Reconciliation)
+- Involved data migration testing core banking singapore to TEMENOS T24 in MOCKRUN (Extract, Transform, Load, Reconciliation)
 
 ## ALL PROJECT
 
@@ -34,18 +33,16 @@ I am greatly pleased to be involved in projects that carry significant impact on
 ```
 Project X
 ├── Documentation
-│   ├── BRS (Business Requirement Specification)  : Business Analys Department (Including but not limited, Design Architecture, Goal, Flow business view, changes, all type of test like srtress test, security test, etc)
+│   ├── BRS (Business Requirement Specification) : Business Analyst Department (Including but not limited, Design Architecture, Goal, Flow business view, changes, all type of test like srtress test, security test, etc)
 │   ├── DSN (Program Design) : Development Department
-│   ├── MIG (Migration) / DEP (Deployment Code) / SOP deployment & Rollback: Development Department
+│   ├── MIG/DEP (Migration)  : API Specs, CODE, SOP deployment & Rollback: Development Department
 │   ├── SIT (System Integration Test) : Development Department
-│   ├── BAA (Acceptance Test) : Quality Department
-│   ├── DEP (Deployment Code) : Development Department
-│   ├── UAT (User Accaptan Test) : Quality Department
+│   ├── BAA (Acceptance Test)  : Quality Department
 │   ├── BADT (Deployment Test) : Quality Department
-│   ├── BAPT (Piloting Test) : Quality Department
+│   ├── BAPT (Piloting Test)   : Quality Department
 │   └── etc
 |
-├── Busines Analys Department
+├── Business analyst Department
 │   ├── Outcome : BRS [Mandatory]
 │   └── etc
 │
@@ -56,17 +53,17 @@ Project X
 ├── Quality Department (Testing & Release)
 │   ├── Results From QA Department
 │   │   ├── Outcome : UAT, BAA, BADT, BAPT [Mandatory]
-│   │   ├── Involve Design & Code Review, Source Code DIR, Deployment readiness, Invitation (UAT, Table TOP, deployment)  [Mandatory]
+│   │   ├── Involve Design & Code Review, Save Source Code DIR, Deployment readiness, Invitation (UAT, Table TOP, deployment)  [Mandatory]
 │   │   ├── Check & update all DOC (sequentially : BRS, DSN, MIG/DEP), Plan scenario Test, Data testing, Execution (sequentially : Screen Capture), do UAT, Check & Update DOC after UAT (BAA, BADT), Deployment (BADT, BAPT) [Mandatory]
 |   │   ├── Integration Automation Test, Automation test /E2E (If any) [optional]
 |   │   └── etc
 │   ├── Release App   
-│   │   ├── Approval for all department before release to production (User, Business Analys Lead, Development Lead, Quality Lead, Operation Lead : Minimal head of division)  [Mandatory]
-│   │   ├── QA/Test engineer/ Involved test in Production after relase (Deployment test or piloting)       
-|   │   └── etc.
-|   │
+│       ├── Approval for all department before release to production (User, Business analyst Lead, Development Lead, Quality Lead, Operation Lead : Minimal head of division)  [Mandatory]
+│       ├── User/DEV/Software/QA/Test engineer/ Involved test in Production after relase (Deployment test or piloting)       
+|       └── etc.
+|   
 └── OPERATION Department
-    └── Collaboration with other Department, especially Table TOP (Planning all requirment : Data, tools, Code), Deployment, Monitoring
+    └── Collaboration with other Department, especially Table TOP (Planning all requirment : Data, tools, Code) before Deployment and Monitoring after deployment
 
 ```
 
@@ -90,7 +87,7 @@ so, this is the beginning where to start. all of these process transformation wi
 Link : https://drive.google.com/file/d/1_LNIBYXSAbhuGW4WV8sZqDtnfD_paV4b/view (Only For Learning), Acces request to mylinkedin : https://www.linkedin.com/in/dianpermana
 
 ## Tech Stack : 
-JMeter(JDBC, log4j, TN5250, SSH, FTP, etc), Management tools (JIRA, Confluence, Bitbucket), Terminal (Putty, Mobaxtrem), Database (MySQL,SQL Server) IBM (Cardlink, AS400), Posman, SOAPUI, Katalon, Studio, Taurus, Github Language : Java, Groovy, Javascript etc
+Testing Tools (JMeter,Postman, SOAPUI, Katalon Studio), Management tools (JIRA, Confluence, Bitbucket, Bamboo), Terminal (Putty, Mobaxtrem), Database (MySQL, SQL Server), IBM (Cardlink, AS400), Taurus, VPN, BRI DRIVE, Github, Language (Java, Groovy, Javascript, etc)
 
 ## Thank You
 Thank You all, day to day we have improved and I just create E-book for documentation in the future. MyWife Rini Shoffa Aulia & Ghaisan Rafif Aljazari, and all team @Fakih Basyaruddin @Dwi Yunita @Rahmad M @Ryan @Rudi Butar Butar @satyodjiwo @Osyani @Fathur
