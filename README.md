@@ -33,13 +33,13 @@ I am greatly pleased to be involved in projects that carry significant impact on
 ```
 Project X
 ├── Documentation
-│   ├── BRS (Business Requirement Specification) : Business Analyst Department (Including but not limited, Design Architecture, Goal, Flow business view, changes, all type of test like srtress test, security test, etc)
-│   ├── DSN (Program Design) : Development Department
-│   ├── MIG/DEP (Migration)  : API Specs, CODE, SOP deployment & Rollback: Development Department
-│   ├── SIT (System Integration Test) : Development Department
-│   ├── BAA (Acceptance Test)  : Quality Department
-│   ├── BADT (Deployment Test) : Quality Department
-│   ├── BAPT (Piloting Test)   : Quality Department
+│   ├── BRS (Business Requirement Specification) : Business Analyst Department (Design Architecture, Goal, Flow business view, changes, all type of test like srtress test, security test, etc)
+│   ├── DSN (Program Design) : Development Department (Specific technical view)
+│   ├── MIG/DEP (Migration)  : Development Department (API Specs, CODE, SOP deployment & Rollback)
+│   ├── SIT (System Integration Test) : Development Department (Results test Integration)
+│   ├── BAA (Acceptance Test)  : Quality Department (Official statement, Results UAT test, Screen Capture, Note, & Agreement)
+│   ├── BADT (Deployment Test) : Quality Department (Official statement, Results deployment test, Screen Capture, Note, & Agreement)
+│   ├── BAPT (Piloting Test)   : Quality Department (Official statement, Results piloting test, Screen Capture, Note, & Agreement)
 │   └── etc
 |
 ├── Business analyst Department
