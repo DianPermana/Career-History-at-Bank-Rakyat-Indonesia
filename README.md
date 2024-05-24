@@ -25,7 +25,7 @@ A company that grows rapidly may feel that titles are just titles, but the focus
 
 I am greatly pleased to be involved in projects that carry significant impact on society at large, particularly in Indonesia. Approximately 90% of these projects are national in scope, with only 1 being international.
 
-| 2019 - 2020  | 2021     | QA as System test Enginer | Automation Test | Note Test each project |
+| 2019 - 2020  | 2021     | QA as System Test Enginer | Automation Test | Note Project |
 |--------------|----------|-------------------| -------------------| -------------------|
 | ![image](https://github.com/DianPermana/Career-History-at-Bank-Rakyat-Indonesia/assets/18004033/0f3f52be-c514-4989-b257-efd60c39cc83) | ![image](https://github.com/DianPermana/Career-History-at-Bank-Rakyat-Indonesia/assets/18004033/15032142-8925-494b-8aad-b2e6c6a5bd4f) | ![image](https://github.com/DianPermana/Career-History-at-Bank-Rakyat-Indonesia/assets/18004033/f130894a-41a2-4bb8-8d09-8c0220b9f07f) | ![image](https://github.com/DianPermana/Career-History-at-Bank-Rakyat-Indonesia/assets/18004033/53826d80-314d-4b0a-9c6c-73a24f877fa0) | ![image](https://github.com/DianPermana/Career-History-at-Bank-Rakyat-Indonesia/assets/18004033/1409894a-f04d-4f05-91f7-dd1fb5e7d272)
 |
@@ -87,7 +87,8 @@ so, this is the beginning where to start. all of these process transformation wi
 Link : https://drive.google.com/file/d/1_LNIBYXSAbhuGW4WV8sZqDtnfD_paV4b/view (Only For Learning), Acces request to mylinkedin : https://www.linkedin.com/in/dianpermana
 
 ## Tech Stack : 
-Testing Tools (JMeter,Postman, SOAPUI, Katalon Studio), Management tools (JIRA, Confluence, Bitbucket, Bamboo), Terminal (Putty, Mobaxtrem), Database (MySQL, SQL Server), IBM (Cardlink, AS400), Taurus, VPN, BRI DRIVE, Github, Language (Java, Groovy, Javascript, etc)
+Testing Tools (JMeter, Taurus, Postman, SOAPUI, Katalon Studio, Blazemeter, Apigee, Swagger), Security Tools (Sonarqube for Static Application Security Testing [SAST]), Management tools (Old : Git, Gitlab, Trello, BRI DRIVE || NEW : JIRA, Confluence, Bitbucket, Bamboo ), Terminal, DB & Access (Putty, Mobaxtrem, SQL Data Compare, MySQL, SQL Server), IBM (Cardlink, AS400), Access Remote (VPN, authenticator), Language (Java, Groovy, Javascript, etc), Communications (Microsoft Teams, Gmeet, Whatsapp) etc
+
 
 ## Thank You
 Thank You all, day to day we have improved and I just create E-book for documentation in the future. MyWife Rini Shoffa Aulia & Ghaisan Rafif Aljazari, and all team @Fakih Basyaruddin @Dwi Yunita @Rahmad M @Ryan @Rudi Butar Butar @satyodjiwo @Osyani @Fathur
